@@ -12,6 +12,14 @@ Install the package locally to convert larger datasets :-)
 
 ## Install
 
+**From GitHub** (e.g. for Colab or when not on PyPI):
+
+```bash
+pip install git+https://github.com/jwellik/win2sds.git
+```
+
+**From a local clone** (editable):
+
 ```bash
 cd win2sds
 pip install .
