@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+win2sds/__init__.py
+win2sds/win2sds.py
+win2sds.egg-info/PKG-INFO
+win2sds.egg-info/SOURCES.txt
+win2sds.egg-info/dependency_links.txt
+win2sds.egg-info/entry_points.txt
+win2sds.egg-info/requires.txt
+win2sds.egg-info/top_level.txt
