@@ -4,6 +4,12 @@ Convert WIN-format seismic data files to miniseed in SeisComP Data Structure (SD
 
 Reads WIN files recursively from a local directory (no server). Maps channel identifiers to SEED IDs and optional station metadata via a CSV lookup table. If a target SDS file already exists, appends and merges with no duplicate time ranges.
 
+Try small datasets (~1-2 GB) online in Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jwellik/win2sds/blob/main/win2sds_colab.ipynb)
+
+Install the package locally to convert larger datasets :-)
+
 ## Install
 
 ```bash
